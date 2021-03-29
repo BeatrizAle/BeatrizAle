@@ -1,16 +1,21 @@
-### Hi there 👋
+###  Hey,  I'm Beatriz Alencar! 🙋💻
 
-<!--
-**BeatrizAle/BeatrizAle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am passionate about technology, innovation and new challenges! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am deepening my knowledge in the area of web development. 👩‍💻
+
+
+ #### Technologies
+ 
+
+-----------
+-  Front-End: HTML5 | CSS3 | JavaScript | Vue |
+- Figma
+
+------------
+
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-pink?style=flat-square&logo=Linkedin&logoColor=blue=https://www.linkedin.com/in/beatriz-alencar-1046a41b9/)](https://www.linkedin.com/in/beatriz-alencar-1046a41b9/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/biia_aleencar/)](https://www.instagram.com/biia_aleencar/) 
