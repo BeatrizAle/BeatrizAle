@@ -5,11 +5,12 @@ I am passionate about technology, innovation and new challenges!
 
 I am deepening my knowledge in the area of web development. 👩‍💻
 
+-----------
 
  #### Technologies
  
 
------------
+
 -  Front-End: HTML5 | CSS3 | JavaScript | Vue |
 - Figma
 
