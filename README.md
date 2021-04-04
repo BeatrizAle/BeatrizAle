@@ -19,4 +19,4 @@ I am deepening my knowledge in the area of web development. 👩‍💻
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-palevioletred?style=flat-square&logo=Linkedin&logoColor=blue=https://www.linkedin.com/in/beatriz-alencar-1046a41b9/)](https://www.linkedin.com/in/beatriz-alencar-1046a41b9/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-palevioletred?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/biia_aleencar/)](https://www.instagram.com/biia_aleencar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-palevioletred?style=flat-square&logo=Linkedin&logoColor=blue=https://www.linkedin.com/in/beatriz-alencar-1046a41b9/)](https://www.linkedin.com/in/beatriz-alencar-1046a41b9/)  
