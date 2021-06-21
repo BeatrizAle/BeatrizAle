@@ -12,7 +12,7 @@ I am deepening my knowledge in the area of web development. 👩‍💻
 
 
 -  Front-End: HTML5 | CSS3 | JavaScript | Vue |
--  UI/UX Desing: Figma
+-  UI/UX Design: Figma
 
 ------------
 
