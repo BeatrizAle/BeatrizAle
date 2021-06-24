@@ -3,7 +3,7 @@
 
 I am passionate about technology, innovation and new challenges! 
 
-I am deepening my knowledge in the area of web development. 👩‍💻
+I am deepening my knowledge in the area of web development and UX Design. 👩‍💻
 
 -----------
 
